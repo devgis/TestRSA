@@ -1,0 +1,8 @@
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\bin\Debug\TestRSA.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\bin\Debug\TestRSA.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\obj\Debug\TestRSA.Form1.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\obj\Debug\TestRSA.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\obj\Debug\TestRSA.csproj.GenerateResource.Cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\obj\Debug\TestRSA.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\TestRSA\TestRSA\obj\Debug\TestRSA.pdb
